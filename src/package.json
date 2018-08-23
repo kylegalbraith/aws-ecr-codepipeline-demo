@@ -1,0 +1,15 @@
+{
+  "name": "docker_app_express",
+  "version": "1.0.0",
+  "description": "Sample Docker app with Express for ECR demo",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
