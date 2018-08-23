@@ -1,3 +1,7 @@
+# Terraform
+*.tfstate*
+**/.terraform/
+
 # Logs
 logs
 *.log
